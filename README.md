@@ -12,4 +12,7 @@ This is a collection of algorithms and data structures which I've implement over
 ## What's been implemented:
 
 ## Search
- * Find K’th Largest Element in Unsorted Array
+  * Find K’th Largest Element in Unsorted Array
+  
+## Set
+  * All Subsets of a Set
