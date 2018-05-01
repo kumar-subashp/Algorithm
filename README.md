@@ -16,3 +16,4 @@ This is a collection of algorithms and data structures which I've implement over
   
 ## Set
   * All Subsets of a Set
+  * Kadane’s Algorithm – Maximum Subarray Problem
